@@ -67,35 +67,39 @@ To deploy this project run
 
 ## Dataset Images
 
-![Image of Authentic data](https://drive.google.com/file/d/182oRPALRm93_ohisOl1OnwSb1C1fydb6/view?usp=sharing)
+- Image of Authentic data
+![Image of Authentic data](https://github.com/faisu07/Fbric-Experimentation/blob/main/real.jpg)
 
-![Image of Counterfeit data](https://drive.google.com/file/d/1OE4FqiPNOgue-yG3rrE5RvzbKx0eWsg6/view?usp=sharing)
+-Image of Counterfeit data
+![Image of Counterfeit data](https://github.com/faisu07/Fbric-Experimentation/blob/main/counterfeit.jpg)
 
 
 ## Trainining Curve 
 
-![Training curve of fabric data](https://drive.google.com/file/d/182oRPALRm93_ohisOl1OnwSb1C1fydb6/view?usp=sharing)
+- Training curve of fabric data
+![Training curve of fabric data](https://github.com/faisu07/Fbric-Experimentation/blob/main/Accuracy_fabric_val.png)
 
-![Training curve of Nike Show Logo data](https://drive.google.com/file/d/1OE4FqiPNOgue-yG3rrE5RvzbKx0eWsg6/view?usp=sharing)
+- Training curve of Nike data
+![Training curve of Nike Show Logo data](https://github.com/faisu07/Fbric-Experimentation/blob/main/Accuracy_Nike_val.png)
 
-## Confusion Matrix  
+## Confusion Matrix  (Test,Val,Unseen in order)
 
 - Fabric Data
 
-![Confusion matrix of fabric data test](https://drive.google.com/file/d/182oRPALRm93_ohisOl1OnwSb1C1fydb6/view?usp=sharing)
+![Confusion matrix of fabric data test](https://github.com/faisu07/Fbric-Experimentation/blob/main/cm_test.png)
 
-![Confusion matrix of fabric data val](https://drive.google.com/file/d/1OE4FqiPNOgue-yG3rrE5RvzbKx0eWsg6/view?usp=sharing)
+![Confusion matrix of fabric data val](https://github.com/faisu07/Fbric-Experimentation/blob/main/cm_val.png)
 
-![Confusion matrix of fabric data unseen](https://drive.google.com/file/d/1OE4FqiPNOgue-yG3rrE5RvzbKx0eWsg6/view?usp=sharing)
+![Confusion matrix of fabric data unseen](https://github.com/faisu07/Fbric-Experimentation/blob/main/cm_unseen.png)
 
 
 - Nike Show Logo Data
 
-![Confusion matrix of Nike data test](https://drive.google.com/file/d/182oRPALRm93_ohisOl1OnwSb1C1fydb6/view?usp=sharing)
+![Confusion matrix of Nike data test](https://github.com/faisu07/Fbric-Experimentation/blob/main/Confusion_test.png)
 
-![Confusion matrix of Nike data val](https://drive.google.com/file/d/1OE4FqiPNOgue-yG3rrE5RvzbKx0eWsg6/view?usp=sharing)
+![Confusion matrix of Nike data val](https://github.com/faisu07/Fbric-Experimentation/blob/main/Confusion_val.png)
 
-![Confusion matrix of Nike data unseen](https://drive.google.com/file/d/1OE4FqiPNOgue-yG3rrE5RvzbKx0eWsg6/view?usp=sharing)
+![Confusion matrix of Nike data unseen](https://github.com/faisu07/Fbric-Experimentation/blob/main/Confusion_unseen.png)
 
 
 
