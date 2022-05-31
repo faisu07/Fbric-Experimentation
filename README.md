@@ -68,19 +68,23 @@ To deploy this project run
 ## Dataset Images
 
 - Image of Authentic data
+
 ![Image of Authentic data](https://github.com/faisu07/Fbric-Experimentation/blob/main/real.jpg)
 
--Image of Counterfeit data
+- Image of Counterfeit data
+
 ![Image of Counterfeit data](https://github.com/faisu07/Fbric-Experimentation/blob/main/counterfeit.jpg)
 
 
 ## Trainining Curve 
 
 - Training curve of fabric data
+
 ![Training curve of fabric data](https://github.com/faisu07/Fbric-Experimentation/blob/main/Accuracy_fabric_val.png)
 
 - Training curve of Nike data
-![Training curve of Nike Show Logo data](https://github.com/faisu07/Fbric-Experimentation/blob/main/Accuracy_Nike_val.png)
+
+![Training curve of Nike Show Logo data](https://github.com/faisu07/Fbric-Experimentation/blob/main/Accuracy_nike_val.png)
 
 ## Confusion Matrix  (Test,Val,Unseen in order)
 
