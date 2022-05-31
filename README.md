@@ -1,7 +1,7 @@
 
 # Experiments on Fabric and Nike Shoe logo Dataset
 
- - Fabrc data and Nike Shoe logo is a binary class dataset provided by IBM to experiment on our model
+ - Fabric data and Nike Shoe logo dataset is a binary class dataset provided by IBM to experiment on our model
  - We used our Fenet Model on the given dataset by modifying preparedataloader.py file. 
  - Major issue was with the number of workers in dataloader module. We had to change it to less than 4 because the data is stored in csv files and inside csvs we have location of the images. So jumping from one file to another file is a challenging task for number of workers and the data is also less so if we had more workers then many workers will go out of data. So with less workers each worker will get equal data and take there time to go from one file to another.
  - When the pipeline was prepared the training was done on "raw_images_twoclass_train" images and found out the accuracy of train to reach 99 percent in the fifth epoch onwards.
